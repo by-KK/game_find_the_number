@@ -1,1 +1,1 @@
-Game to find a secret number.
+Console game to find a secret number.
